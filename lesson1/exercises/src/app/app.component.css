@@ -1,0 +1,5 @@
+.col-3 {
+    border: 3px solid rgb(64, 65, 71);
+    display: flex;
+    align-content: center;
+}
